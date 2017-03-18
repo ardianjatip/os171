@@ -1,0 +1,5 @@
+w04-170311-6-PS-Local and Global variable from tutorial
+w04-170311-6-PS-Pointer from tutorial
+w04-170311-7-PS-I/O process from tutorial
+w04-170311-7-PS-I/O process from tutorial
+
